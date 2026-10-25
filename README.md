@@ -1,0 +1,1 @@
+Repo ini berisi file ipnyb (Collab) dri project kelompok kami beserta dataset yang kami gunakan ,dataset yang disertakan merupakan dataset yang sudah diolah melalui serangkaian proses seperti duplicate value yang dihapus dan proses encoding
